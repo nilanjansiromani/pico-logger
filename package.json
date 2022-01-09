@@ -1,0 +1,23 @@
+{
+  "name": "pico-logger",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/49792104/148695582-47573ca8-269d-49a2-804b-7d075dcec8cb.png)",
+  "scripts": {
+    "test": "jest -c jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilanjansiromani/pico-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilanjansiromani/pico-logger/issues"
+  },
+  "homepage": "https://github.com/nilanjansiromani/pico-logger#readme",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "rollup": "^2.63.0"
+  }
+}
